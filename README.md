@@ -23,7 +23,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
 </a>
 <a href="https://frappeframework.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/frappe/design/master/logos/logo-with-name.svg" alt="frappe" width="80" height="40"/>
+  <img src="https://i.imgur.com/tErf4gW.png" alt="frappe" width="40" height="40"/>
 </a>
 <a href="https://angular.io/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular" width="40" height="40"/>
